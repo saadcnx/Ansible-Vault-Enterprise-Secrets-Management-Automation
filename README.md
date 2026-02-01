@@ -75,6 +75,13 @@ Perfect for **DevOps, Cloud, and Infrastructure Automation roles**.
 ### 🧩 Skills Demonstrated
 
 - **Ansible, Secrets Management, IaC, Linux SysAdmin, DevOps Security, Multi-Environment Deployment, Configuration Management, Secure Automation Design**
+
+---
+### 👨‍💻 Author
+
+**Saad Khan**
+**Cloud / DevOps Engineer**
+**Focused on Automation, Reliability & Scalable Infrastructure**
 ---
 ## 📁 Project Structure
 ```text
@@ -84,3 +91,18 @@ ansible-vault-lab/
 ├── vault_files/        # Encrypted secrets per environment
 ├── scripts/            # Vault inventory & backup scripts
 └── backups/            # Backup manifests & recovery
+
+🧪 How to Run
+# Install Ansible
+pip3 install ansible
+
+# Run a secure playbook
+ansible-playbook -i inventory/hosts playbooks/database_setup.yml --ask-vault-pass
+
+# Multi-environment execution
+ansible-playbook playbooks/multi_env_setup.yml \
+  --vault-password-file ~/.vault_pass \
+  --extra-vars "env=staging"
+
+# Production deployment with Vault ID
+ansible-playbook playbooks/production_deploy.yml --vault-id production@prompt
