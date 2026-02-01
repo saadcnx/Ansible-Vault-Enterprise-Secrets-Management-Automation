@@ -80,8 +80,8 @@ Perfect for **DevOps, Cloud, and Infrastructure Automation roles**.
 ### 👨‍💻 Author
 
 **Saad Khan**
-**Cloud / DevOps Engineer**
-**Focused on Automation, Reliability & Scalable Infrastructure**
+Cloud / DevOps Engineer
+---- Focused on Automation, Reliability & Scalable Infrastructure
 ---
 ## 📁 Project Structure
 ```text
