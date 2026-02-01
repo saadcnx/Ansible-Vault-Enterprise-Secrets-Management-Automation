@@ -1,5 +1,5 @@
 ### 🔐 Secure Secrets Management with Ansible Vault  
-**Production-Ready Infrastructure Automation | DevOps | Security**
+Production-Ready Infrastructure Automation | DevOps | Security
 
 ---
 
