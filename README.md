@@ -1,4 +1,4 @@
-🔐 Secure Secrets Management with Ansible Vault  
+### 🔐 Secure Secrets Management with Ansible Vault  
 **Production-Ready Infrastructure Automation | DevOps | Security**
 
 ---
@@ -72,9 +72,9 @@ Perfect for **DevOps, Cloud, and Infrastructure Automation roles**.
 - **Compliance-ready automation (SOC2, PCI-DSS, GDPR)**
 
 ---
-🧩 Skills Demonstrated
+### 🧩 Skills Demonstrated
 
-Ansible, Secrets Management, IaC, Linux SysAdmin, DevOps Security, Multi-Environment Deployment, Configuration Management, Secure Automation Design
+- **Ansible, Secrets Management, IaC, Linux SysAdmin, DevOps Security, Multi-Environment Deployment, Configuration Management, Secure Automation Design**
 ---
 ## 📁 Project Structure
 ```text
