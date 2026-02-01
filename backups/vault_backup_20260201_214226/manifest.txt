@@ -1,0 +1,9 @@
+Vault Backup Manifest
+Created: Sun Feb  1 21:42:26 UTC 2026
+Source: /home/ubuntu/ansible-vault-lab/vault_files
+Files backed up:
+-rw------- 1 ubuntu ubuntu 1651 Feb  1 21:42 /home/ubuntu/ansible-vault-lab/backups/vault_backup_20260201_214226/database_secrets.yml
+-rw------- 1 ubuntu ubuntu 1132 Feb  1 21:42 /home/ubuntu/ansible-vault-lab/backups/vault_backup_20260201_214226/plain_secrets.yml
+-rw------- 1 ubuntu ubuntu 1532 Feb  1 21:42 /home/ubuntu/ansible-vault-lab/backups/vault_backup_20260201_214226/production_secrets.yml
+-rw------- 1 ubuntu ubuntu 1327 Feb  1 21:42 /home/ubuntu/ansible-vault-lab/backups/vault_backup_20260201_214226/staging_secrets.yml
+-rw------- 1 ubuntu ubuntu 1327 Feb  1 21:42 /home/ubuntu/ansible-vault-lab/backups/vault_backup_20260201_214226/staging_secrets_backup.yml
